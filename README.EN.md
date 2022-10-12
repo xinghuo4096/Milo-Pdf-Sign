@@ -30,7 +30,7 @@ Milo Pdf Sign is a set of PDF files to increase the electronic signature of the 
 
 ## Official website
 
-[www.milopdf.com](www.milopdf.com)
+[www.milopdf.com](http://www.milopdf.com)
 
 ## Contact the author
 
