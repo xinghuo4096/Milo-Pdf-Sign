@@ -12,8 +12,16 @@ Milo Pdf Sign是一套给PDF文件增加电子签名的工具包，包含签名�
 
 ## 演示
 
-![演示1](demos/demo1.jpg)
+1. 增加一个签名，是一张图片附带电子签名。
+![演示1](demos/demo2.jpg)
+
+2. 查看签名具体内容。
 ![演示2](demos/demo1.jpg)
+
+## 演示PDF文件
+
+[演示1PDF文件](demos/demo1.pdf)
+[演示2PDF文件](demos/demo2.pdf)
 
 ## 官网
 
