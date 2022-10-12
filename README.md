@@ -20,8 +20,7 @@ Milo Pdf Sign是一套给PDF文件增加电子签名的工具包，包含签名�
 
 ## 演示PDF文件
 
-- 有些浏览器不支持查看pdf文件中包含的电子签名。
-- 请下载使用常用PDF查看器，如《Adobe Acrobat》《福昕pdf阅读器》《WPS Office》等等软件查看电子签名内容。
+- 有些浏览器不支持查看pdf文件中包含的电子签名。遇到这种情况，请下载使用常用PDF查看器，如《Adobe Acrobat》《福昕pdf阅读器》《WPS Office》等等软件查看电子签名内容。
 
 [演示1PDF文件，](demos/demo1.pdf)
 
